@@ -17,8 +17,8 @@ http://www.open-std.org/jtc1/sc22/wg14/www/docs/n1570.pdf
 
 ## Topics
 
+* [main()](main.md)
 * [Compiling](compiling.md)
-
 
 ## Todos
 
