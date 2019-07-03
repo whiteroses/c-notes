@@ -19,6 +19,7 @@ http://www.open-std.org/jtc1/sc22/wg14/www/docs/n1570.pdf
 
 * [main()](main.md)
 * [Compiling](compiling.md)
+* [Functions](functions.md)
 
 ## Todos
 
